@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\bin\Debug\net6.0\ConsoleApp_H.exe
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\bin\Debug\net6.0\ConsoleApp_H.deps.json
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\bin\Debug\net6.0\ConsoleApp_H.runtimeconfig.json
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\bin\Debug\net6.0\ConsoleApp_H.dll
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\bin\Debug\net6.0\ConsoleApp_H.pdb
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.dll
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\refint\ConsoleApp_H.dll
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.pdb
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ConsoleApp_H.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hotel\ConsoleApp_H\obj\Debug\net6.0\ref\ConsoleApp_H.dll
